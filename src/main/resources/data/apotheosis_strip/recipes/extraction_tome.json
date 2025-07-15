@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "NSN",
+    " E "
+  ],
+  "key": {
+    "S": {
+      "item": "apotheosis_strip:improved_scrap_tome"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "apotheosis_strip:extraction_tome",
+    "count": 9
+  }
+} 

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "B",
+    "X"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "apotheosis_strip:armor_tome",
+    "count": 2
+  }
+} 

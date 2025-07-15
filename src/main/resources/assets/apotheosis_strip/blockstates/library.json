@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apotheosis_strip:block/library"
+    },
+    "facing=east": {
+      "model": "apotheosis_strip:block/library",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apotheosis_strip:block/library",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apotheosis_strip:block/library",
+      "y": 270
+    }
+  }
+}

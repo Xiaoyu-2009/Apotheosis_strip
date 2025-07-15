@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B B",
+    "BXB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "X": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "apotheosis_strip:boots_tome",
+    "count": 4
+  }
+} 

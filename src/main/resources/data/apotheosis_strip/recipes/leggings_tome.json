@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B B",
+    "BXB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "X": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "apotheosis_strip:leggings_tome",
+    "count": 7
+  }
+} 

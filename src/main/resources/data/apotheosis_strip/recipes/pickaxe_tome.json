@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    " X ",
+    " S "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "X": {
+      "item": "minecraft:blaze_rod"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "apotheosis_strip:pickaxe_tome",
+    "count": 3
+  }
+} 

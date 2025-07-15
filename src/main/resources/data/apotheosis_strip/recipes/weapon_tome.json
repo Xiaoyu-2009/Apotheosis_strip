@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "B",
+    "X"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "X": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "apotheosis_strip:weapon_tome",
+    "count": 2
+  }
+} 

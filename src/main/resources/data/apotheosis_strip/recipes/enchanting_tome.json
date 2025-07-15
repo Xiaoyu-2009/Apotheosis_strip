@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BXB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "X": {
+      "item": "minecraft:enchanting_table"
+    }
+  },
+  "result": {
+    "item": "apotheosis_strip:enchanting_tome",
+    "count": 4
+  }
+} 

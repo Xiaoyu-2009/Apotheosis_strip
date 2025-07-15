@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BNB",
+    "NEN",
+    "BNB"
+  ],
+  "key": {
+    "B": {
+      "tag": "forge:bookshelves"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "E": {
+      "item": "minecraft:enchanting_table"
+    }
+  },
+  "result": {
+    "item": "apotheosis_strip:library",
+    "count": 1
+  }
+} 

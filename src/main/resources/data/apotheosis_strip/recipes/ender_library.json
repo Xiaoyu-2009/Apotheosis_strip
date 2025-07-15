@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BDB",
+    "NLN",
+    "BNB"
+  ],
+  "key": {
+    "B": {
+      "tag": "forge:bookshelves"
+    },
+    "D": {
+      "item": "minecraft:dragon_head"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "L": {
+      "item": "apotheosis_strip:library"
+    }
+  },
+  "result": {
+    "item": "apotheosis_strip:ender_library",
+    "count": 1
+  }
+} 
